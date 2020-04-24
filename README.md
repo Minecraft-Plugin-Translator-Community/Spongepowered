@@ -10,7 +10,7 @@ If you want to contribute, revising or translating, create the issue finished tr
 * [Model Finished translation](https://github.com/Minecraft-Plugin-Translator-Comunity/Spongepowered/wiki/Finished-translation/)
 
 # Translatios
-All files translated stay in the folder, the name this file is the name of the plugin. The file prefix is the version of the plugin, example: V1.3_messages.yml
+All files translated will stay in the plugin folder and in your respective languague , the name this file is the name of the plugin. The file prefix is the version of the plugin, example: V1.3_messages.yml
 
 # We need help
 We need members for organization, for closing issues and accept Pull requests.
